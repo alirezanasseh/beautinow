@@ -1,0 +1,54 @@
+- Desktop
+  - Header
+    - TopBar
+      - Brand
+      - Search
+        - Search dropdown
+      - Profile
+        - Sign in drawer
+      - Cart
+        - Shopping cart drawer
+      - CurrencyDropdown
+    - MainNavigation
+      - Rich sub menu
+  - Content
+    - Breadcrumbs
+    - Filter
+    - Products grid
+      - ProductCard
+        - New badge
+        - Discount badge
+        - Image
+        - Variations
+        - Name
+        - Price
+        - Add to cart button
+        - Quick view button
+      - ProductQuickView
+        - Product images slider
+        - Product name
+        - Price
+        - Variations
+        - Quantity selector
+        - Add to cart button
+        - Close button
+    - Pagination navigation
+    - TrendCategories
+  - Footer
+    - Call to action
+      - SubscribeCart
+      - JoinWhatsappCommunityCart
+    - SocialPosts
+    - FooterMenu
+    - FooterNote
+    - FooterCurrencies
+    - Integrations
+      - Brand
+      - IntegrationLogos
+- Mobile
+  - Header
+    - HamburgerMenu
+      - SideNavigationMenu
+  - Content (same as desktop)
+  - Footer (same as desktop)
+  - BottomNavigation
