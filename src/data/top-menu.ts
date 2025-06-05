@@ -1,6 +1,6 @@
 import { MenuType } from '@/types/menu.type';
 
-const menu: MenuType = [
+const topMenu: MenuType = [
 	{
 		id: 'new-arrivals',
 		name: 'New Arrivals',
@@ -725,4 +725,4 @@ const menu: MenuType = [
 	}
 ];
 
-export default menu;
+export default topMenu;
