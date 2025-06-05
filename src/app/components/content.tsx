@@ -1,7 +1,11 @@
 import React from 'react';
 
-export default function Content(props: React.PropsWithChildren) {
+export default function Content({
+	children,
+}: Readonly<{
+	children: React.ReactNode;
+}>) {
 	return (
-		<main>{props.children}</main>
+		<main>{children}</main>
 	);
 }
