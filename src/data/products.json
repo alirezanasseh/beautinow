@@ -1,0 +1,288 @@
+{
+  "products": [
+    {
+      "id": "218137",
+      "name": "Amouage Guidance Eau de Parfum - Sample",
+      "images": [
+        [
+          "https://imagedelivery.net/laBgoetT0yQYXslqpubuIw/e60a59ee-4afe-4659-1c76-e9e69c94d400/productPage",
+          "https://imagedelivery.net/laBgoetT0yQYXslqpubuIw/e60a59ee-4afe-4659-1c76-e9e69c94d400/public",
+          "https://imagedelivery.net/laBgoetT0yQYXslqpubuIw/e60a59ee-4afe-4659-1c76-e9e69c94d400/category"
+        ],
+        [
+          "https://imagedelivery.net/laBgoetT0yQYXslqpubuIw/11a89e3e-9d5a-48e4-72ad-fa7105024900/productPage",
+          "https://imagedelivery.net/laBgoetT0yQYXslqpubuIw/11a89e3e-9d5a-48e4-72ad-fa7105024900/category",
+          "https://imagedelivery.net/laBgoetT0yQYXslqpubuIw/11a89e3e-9d5a-48e4-72ad-fa7105024900/public"
+        ],
+        [
+          "https://imagedelivery.net/laBgoetT0yQYXslqpubuIw/19be81ae-5c73-4837-74b7-d0a3b533aa00/productPage",
+          "https://imagedelivery.net/laBgoetT0yQYXslqpubuIw/19be81ae-5c73-4837-74b7-d0a3b533aa00/category",
+          "https://imagedelivery.net/laBgoetT0yQYXslqpubuIw/19be81ae-5c73-4837-74b7-d0a3b533aa00/public"
+        ],
+        [
+          "https://imagedelivery.net/laBgoetT0yQYXslqpubuIw/c5103fd7-6322-47bb-0ab1-d5bb52ac6900/productPage",
+          "https://imagedelivery.net/laBgoetT0yQYXslqpubuIw/c5103fd7-6322-47bb-0ab1-d5bb52ac6900/public",
+          "https://imagedelivery.net/laBgoetT0yQYXslqpubuIw/c5103fd7-6322-47bb-0ab1-d5bb52ac6900/category"
+        ]
+      ],
+      "brand": "Amouage",
+      "variations": [
+        {
+          "name": "2ml",
+          "stock": 259,
+          "price": 5.99,
+          "regular_price": 10
+        }
+      ],
+      "attributes": {
+        "Size": [
+          "2ml"
+        ],
+        "Gender": [
+          "Unisex"
+        ],
+        "Main Accords": [
+          "amber",
+          "fruity",
+          "lactonic",
+          "patchouli",
+          "powdery",
+          "woody"
+        ],
+        "Brand": [
+          "Amouage"
+        ]
+      },
+      "min_reg_price": 10,
+      "max_reg_price": 10,
+      "min_price": 5.99,
+      "max_price": 5.99
+    },
+    {
+      "id": "218683",
+      "name": "Amouage Reasons Essence De Parfum",
+      "images": [
+        [
+          "https://imagedelivery.net/laBgoetT0yQYXslqpubuIw/15e75348-d8af-4ab2-87d0-225f5a5d1800/category",
+          "https://imagedelivery.net/laBgoetT0yQYXslqpubuIw/15e75348-d8af-4ab2-87d0-225f5a5d1800/productPage",
+          "https://imagedelivery.net/laBgoetT0yQYXslqpubuIw/15e75348-d8af-4ab2-87d0-225f5a5d1800/public"
+        ],
+        [
+          "https://imagedelivery.net/laBgoetT0yQYXslqpubuIw/503a1a26-f831-49b1-d5e0-34f71bf47d00/category",
+          "https://imagedelivery.net/laBgoetT0yQYXslqpubuIw/503a1a26-f831-49b1-d5e0-34f71bf47d00/public",
+          "https://imagedelivery.net/laBgoetT0yQYXslqpubuIw/503a1a26-f831-49b1-d5e0-34f71bf47d00/productPage"
+        ],
+        [
+          "https://imagedelivery.net/laBgoetT0yQYXslqpubuIw/41e129ab-3d95-42f1-65af-72d071a96300/category",
+          "https://imagedelivery.net/laBgoetT0yQYXslqpubuIw/41e129ab-3d95-42f1-65af-72d071a96300/productPage",
+          "https://imagedelivery.net/laBgoetT0yQYXslqpubuIw/41e129ab-3d95-42f1-65af-72d071a96300/public"
+        ]
+      ],
+      "brand": "Amouage",
+      "variations": [
+        {
+          "name": "100ml (Tester+Cap)",
+          "stock": 0,
+          "price": 235,
+          "regular_price": 420
+        },
+        {
+          "name": "100ml",
+          "stock": 148,
+          "price": 269,
+          "regular_price": 420
+        }
+      ],
+      "attributes": {
+        "Gender": [
+          "Unisex"
+        ],
+        "Main Accords": [
+          "amber",
+          "aromatic",
+          "woody"
+        ],
+        "Brand": [
+          "Amouage"
+        ],
+        "Size": [
+          "100ml",
+          "100ml (Tester+Cap)"
+        ],
+        "type": [
+          "Perfumes"
+        ]
+      },
+      "min_reg_price": 420,
+      "max_reg_price": 420,
+      "min_price": 235,
+      "max_price": 269
+    },
+    {
+      "id": "225741",
+      "name": "[Exclusively Whatsapp Internal Sales] Amouage Guidance 46 Extrait de Parfum",
+      "images": [
+        [
+          "https://imagedelivery.net/laBgoetT0yQYXslqpubuIw/fae37e9b-61d7-4e32-efdc-675bd057d000/category",
+          "https://imagedelivery.net/laBgoetT0yQYXslqpubuIw/fae37e9b-61d7-4e32-efdc-675bd057d000/productPage",
+          "https://imagedelivery.net/laBgoetT0yQYXslqpubuIw/fae37e9b-61d7-4e32-efdc-675bd057d000/public"
+        ],
+        [
+          "https://imagedelivery.net/laBgoetT0yQYXslqpubuIw/1d4a1699-d6d1-4f8d-1e22-d11516dfd000/public",
+          "https://imagedelivery.net/laBgoetT0yQYXslqpubuIw/1d4a1699-d6d1-4f8d-1e22-d11516dfd000/productPage",
+          "https://imagedelivery.net/laBgoetT0yQYXslqpubuIw/1d4a1699-d6d1-4f8d-1e22-d11516dfd000/category"
+        ]
+      ],
+      "brand": "Amouage",
+      "variations": [
+        {
+          "name": "100ml",
+          "stock": 0,
+          "price": 225,
+          "regular_price": 490
+        }
+      ],
+      "attributes": {
+        "Size": [
+          "100ml"
+        ],
+        "Gender": [
+          "Unisex"
+        ],
+        "Main Accords": [
+          "floral",
+          "fruity",
+          "woody"
+        ],
+        "Brand": [
+          "Amouage"
+        ]
+      },
+      "min_reg_price": 490,
+      "max_reg_price": 490,
+      "min_price": 225,
+      "max_price": 225
+    },
+    {
+      "id": "218681",
+      "name": "Amouage Outlands Essence De Parfum",
+      "images": [
+        [
+          "https://imagedelivery.net/laBgoetT0yQYXslqpubuIw/05f17f70-e767-490e-244c-e5a53ddb5b00/productPage",
+          "https://imagedelivery.net/laBgoetT0yQYXslqpubuIw/05f17f70-e767-490e-244c-e5a53ddb5b00/public",
+          "https://imagedelivery.net/laBgoetT0yQYXslqpubuIw/05f17f70-e767-490e-244c-e5a53ddb5b00/category"
+        ],
+        [
+          "https://imagedelivery.net/laBgoetT0yQYXslqpubuIw/c82b4519-46fc-4b3e-8635-b0cfc53ef800/productPage",
+          "https://imagedelivery.net/laBgoetT0yQYXslqpubuIw/c82b4519-46fc-4b3e-8635-b0cfc53ef800/category",
+          "https://imagedelivery.net/laBgoetT0yQYXslqpubuIw/c82b4519-46fc-4b3e-8635-b0cfc53ef800/public"
+        ],
+        [
+          "https://imagedelivery.net/laBgoetT0yQYXslqpubuIw/854b5213-8e2f-4517-dc71-f245401de900/category",
+          "https://imagedelivery.net/laBgoetT0yQYXslqpubuIw/854b5213-8e2f-4517-dc71-f245401de900/public",
+          "https://imagedelivery.net/laBgoetT0yQYXslqpubuIw/854b5213-8e2f-4517-dc71-f245401de900/productPage"
+        ]
+      ],
+      "brand": "Amouage",
+      "variations": [
+        {
+          "name": "100ml (Tester+Cap)",
+          "stock": 0,
+          "price": 235,
+          "regular_price": 420
+        },
+        {
+          "name": "100ml",
+          "stock": 0,
+          "price": 269,
+          "regular_price": 420
+        }
+      ],
+      "attributes": {
+        "Gender": [
+          "Male",
+          "Unisex"
+        ],
+        "Main Accords": [
+          "amber",
+          "aromatic",
+          "warm spicy"
+        ],
+        "Brand": [
+          "Amouage"
+        ],
+        "Size": [
+          "100ml",
+          "100ml (Tester+Cap)"
+        ],
+        "type": [
+          "Perfumes"
+        ]
+      },
+      "min_reg_price": 420,
+      "max_reg_price": 420,
+      "min_price": 235,
+      "max_price": 269
+    },
+    {
+      "id": "218672",
+      "name": "Amouage Lustre Essence De Parfum",
+      "images": [
+        [
+          "https://imagedelivery.net/laBgoetT0yQYXslqpubuIw/6d66cc0f-5ea1-43a2-14dd-022c57c8f600/category",
+          "https://imagedelivery.net/laBgoetT0yQYXslqpubuIw/6d66cc0f-5ea1-43a2-14dd-022c57c8f600/public",
+          "https://imagedelivery.net/laBgoetT0yQYXslqpubuIw/6d66cc0f-5ea1-43a2-14dd-022c57c8f600/productPage"
+        ],
+        [
+          "https://imagedelivery.net/laBgoetT0yQYXslqpubuIw/ec244565-67c7-4a95-6a1b-db853c01f300/productPage",
+          "https://imagedelivery.net/laBgoetT0yQYXslqpubuIw/ec244565-67c7-4a95-6a1b-db853c01f300/public",
+          "https://imagedelivery.net/laBgoetT0yQYXslqpubuIw/ec244565-67c7-4a95-6a1b-db853c01f300/category"
+        ],
+        [
+          "https://imagedelivery.net/laBgoetT0yQYXslqpubuIw/5f50de6e-e60b-4053-6c56-15ca2053e300/category",
+          "https://imagedelivery.net/laBgoetT0yQYXslqpubuIw/5f50de6e-e60b-4053-6c56-15ca2053e300/productPage",
+          "https://imagedelivery.net/laBgoetT0yQYXslqpubuIw/5f50de6e-e60b-4053-6c56-15ca2053e300/public"
+        ]
+      ],
+      "brand": "Amouage",
+      "variations": [
+        {
+          "name": "100ml (Tester+Cap)",
+          "stock": 0,
+          "price": 235,
+          "regular_price": 420
+        },
+        {
+          "name": "100ml",
+          "stock": 141,
+          "price": 269,
+          "regular_price": 420
+        }
+      ],
+      "attributes": {
+        "Gender": [
+          "Unisex"
+        ],
+        "Main Accords": [
+          "amber",
+          "warm spicy",
+          "woody"
+        ],
+        "Brand": [
+          "Amouage"
+        ],
+        "Size": [
+          "100ml",
+          "100ml (Tester+Cap)"
+        ],
+        "type": [
+          "Perfumes"
+        ]
+      },
+      "min_reg_price": 420,
+      "max_reg_price": 420,
+      "min_price": 235,
+      "max_price": 269
+    }
+  ]
+}
