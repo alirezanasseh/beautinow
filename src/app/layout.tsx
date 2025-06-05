@@ -26,7 +26,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={poppins.className}
+        className={poppins.className + " min-h-screen flex flex-col"}
       >
         <Header />
         <Content>{children}</Content>
