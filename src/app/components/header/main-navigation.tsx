@@ -1,6 +1,6 @@
 'use client';
 
-import menu from '@/data/menu';
+import topMenu from '@/data/top-menu';
 import React from 'react';
 import { MenuItemType, MenuType } from '@/types/menu.type';
 
@@ -43,7 +43,7 @@ export default function MainNavigation() {
 	return (
 		<div>
 			<div className="flex gap-8 text-md justify-center py-5">
-				{menu.map(item => (
+				{topMenu.map(item => (
 					<div
 						key={item.id}
 						onMouseEnter={() => showSubMenu(item)}
