@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function Subscribe() {
 	return (
-		<div className="rounded-2xl bg-[#f7f5f0] p-6 text-center shadow-xl flex flex-1 justify-center">
+		<div className="rounded-2xl bg-[#f7f5f0] p-6 text-center shadow-xl flex flex-3 justify-center">
 			<div className="w-110">
 				<h3 className="text-2xl mb-2">Subscribe</h3>
 				<p className="text-xl font-light mb-6">And never miss out on new offers!</p>
