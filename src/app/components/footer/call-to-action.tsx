@@ -3,7 +3,7 @@ import JoinWhatsapp from '@/app/components/footer/join-whatsapp';
 
 export default function CallToAction() {
 	return (
-		<div>
+		<div className="flex gap-4 px-8 py-4">
 			<Subscribe />
 			<JoinWhatsapp />
 		</div>

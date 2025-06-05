@@ -1,7 +1,10 @@
 import React from 'react';
+import { UserRound } from 'lucide-react';
 
 export default function Profile() {
 	return (
-		<div>Profile</div>
+		<div>
+			<UserRound />
+		</div>
 	);
 }
