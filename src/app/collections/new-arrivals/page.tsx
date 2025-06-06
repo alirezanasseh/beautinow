@@ -15,25 +15,25 @@ export default function NewArrivals() {
 	const itemsPerPage = 20;
 	const totalPages = Math.ceil(totalItems / itemsPerPage);
 
-	const fetchProducts = React.useCallback(async (page: number) => {
-		try {
-			const response = await getProducts({
-				page,
-				limit: itemsPerPage
-			});
-
-			if (response) {
-				setProducts(response.data);
-				setTotalItems(response.count);
-			}
-		} catch (err) {
-			console.error('Failed to fetch products:', err);
-		}
-	}, [getProducts]);
-
 	React.useEffect(() => {
-		fetchProducts(currentPage);
-	}, [currentPage, fetchProducts]);
+		const fetchProducts = async () => {
+			try {
+				const response = await getProducts({
+					page: currentPage,
+					limit: itemsPerPage
+				});
+
+				if (response) {
+					setProducts(response.data);
+					setTotalItems(response.count);
+				}
+			} catch (err) {
+				console.error('Failed to fetch products:', err);
+			}
+		};
+
+		fetchProducts();
+	}, [currentPage, getProducts]);
 
 	const handlePageChange = (newPage: number) => {
 		setCurrentPage(newPage);

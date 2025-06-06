@@ -1,11 +1,11 @@
-import { useState } from 'react';
+import { useCallback, useState } from 'react';
 import { apiFetch } from '@/lib/api-fetch';
 
 export default function useApi<T>() {
 	const [error, setError] = useState<string | null>(null);
 	const [loading, setLoading] = useState<boolean>(false);
 
-	const request = async (params: {
+	const request = useCallback(async (params: {
 		endpoint: string;
 		options?: RequestInit;
 		noDefaultHeaders?: boolean;
@@ -34,7 +34,7 @@ export default function useApi<T>() {
 		} finally {
 			setLoading(false);
 		}
-	};
+	}, []);
 
 	return { error, loading, request };
 }
