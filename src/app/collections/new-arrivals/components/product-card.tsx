@@ -48,7 +48,7 @@ export default function ProductCard({ product }: ProductCardProps) {
 				)}
 
 				{/* Quick actions overlay */}
-				<div className="absolute inset-0 bg-black bg-opacity-0 group-hover:bg-opacity-20 transition-all duration-300 flex items-center justify-center">
+				<div className="absolute inset-0 bg-black opacity-0 group-hover:opacity-20 transition-all duration-300 flex items-center justify-center">
 					<div className="opacity-0 group-hover:opacity-100 transition-opacity duration-300 space-y-2">
 						<button className="bg-white text-black px-4 py-2 text-sm font-medium hover:bg-gray-100 transition-colors block w-full">
 							Quick View
