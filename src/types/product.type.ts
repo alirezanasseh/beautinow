@@ -19,9 +19,9 @@ interface VariationType {
 }
 
 interface AttributesType {
-	Size: string[];
-	Gender: string[];
-	"Main Accords": string[];
+	Size?: string[];
+	Gender?: string[];
+	"Main Accords"?: string[];
 	Brand: string[];
 	"type"?: string[];
 }
